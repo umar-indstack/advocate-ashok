@@ -1893,7 +1893,7 @@ h1, h2, h3, h4, h5, h6 {
         background: linear-gradient(rgba(122, 95, 63, 0.15), rgba(122, 95, 63, 0.15)), url('images/photo-mobile.png');
         background-repeat: no-repeat;
         background-position: center center;
-        background-size: cover;
+        background-size: 100% auto;
         background-attachment: scroll;
         min-height: 100vh;
         display: flex;
